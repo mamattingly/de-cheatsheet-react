@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/de-cheatsheet-react/static/css/main.89b63eeb.css",
-    "main.js": "/de-cheatsheet-react/static/js/main.b1597766.js",
+    "main.js": "/de-cheatsheet-react/static/js/main.48a22600.js",
     "static/js/787.500c39d1.chunk.js": "/de-cheatsheet-react/static/js/787.500c39d1.chunk.js",
     "static/media/robot.svg": "/de-cheatsheet-react/static/media/robot.42854c8ded7e17ffc6bb4574b8ab8f5a.svg",
     "index.html": "/de-cheatsheet-react/index.html",
     "main.89b63eeb.css.map": "/de-cheatsheet-react/static/css/main.89b63eeb.css.map",
-    "main.b1597766.js.map": "/de-cheatsheet-react/static/js/main.b1597766.js.map",
+    "main.48a22600.js.map": "/de-cheatsheet-react/static/js/main.48a22600.js.map",
     "787.500c39d1.chunk.js.map": "/de-cheatsheet-react/static/js/787.500c39d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89b63eeb.css",
-    "static/js/main.b1597766.js"
+    "static/js/main.48a22600.js"
   ]
 }
